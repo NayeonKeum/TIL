@@ -10,7 +10,7 @@ since 2021.09.03
 
 
 ## Today I Learned...
-- [2021.09.03](https://github.com/NayeonKeum/BigContest2021/blob/master/README.md "빅콘테스트2021 인구특성 전처리 완료")
+- [2021.09.03](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 인구특성 전처리 완료")
 - 
 
 
