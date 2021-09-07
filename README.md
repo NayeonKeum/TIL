@@ -15,5 +15,6 @@ since 2021.09.03
 - [2021.09.04](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 시계열 데이터 공부 중") read-papers.md 참고
 - [2021.09.05](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 시계열 데이터 공부 중") read-papers.md 참고
 - [2021.09.06](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 시계열 이용하여 비무작위 결측(MNAR) 처리")
+- [2021.09.07](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 Feature Selecting...")
 
 
