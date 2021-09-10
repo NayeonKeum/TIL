@@ -17,4 +17,5 @@ since 2021.09.03
 - [2021.09.06](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 시계열 이용하여 비무작위 결측(MNAR) 처리")
 - [2021.09.07](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 Feature Selecting...")
 - [2021.09.08](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 LSTM 문제 생겨서 고치는 중,,, 단순 시계열 ")
-
+- [2021.09.09](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 로그 변환 ing ")
+- [2021.09.10](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 로그 변환 아직도 안 됨 ")
