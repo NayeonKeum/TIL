@@ -19,3 +19,5 @@ since 2021.09.03
 - [2021.09.08](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 LSTM 문제 생겨서 고치는 중,,, 단순 시계열 ")
 - [2021.09.09](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 로그 변환 ing ")
 - [2021.09.10](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 로그 변환 아직도 안 됨 ")
+- [2021.09.11](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 로그 변환 성공하고 왜도 파악, 로그 변환 ")
+- [2021.09.12](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 MSE, RMSE, RMSLE, MAE 차이 파악 및 선택")
