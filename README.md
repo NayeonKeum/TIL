@@ -23,3 +23,4 @@ since 2021.09.03
 - [2021.09.12](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 MSE, RMSE, RMSLE, MAE 차이 파악 및 선택")
 - [2021.09.13](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 vif 개선")
 - [2021.09.14](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 군집별 특성 분석")
+- [2021.09.15](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 정책 제언을 위한 공부 중(뉴스 등)")
