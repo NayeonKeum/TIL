@@ -25,3 +25,4 @@ since 2021.09.03
 - [2021.09.14](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 군집별 특성 분석")
 - [2021.09.15](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 정책 제언을 위한 공부 중(뉴스 등)")
 - [2021.09.16](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 정책 제언 및 마무리")
+- [2021.09.17](https://github.com/NayeonKeum/Solving_Algorithms/tree/master/%EB%84%BC%EC%95%8C%EC%95%9C%EC%9B%81%EC%95%A0%20%EC%8A%A4%ED%84%B0%EB%94%94 "코테 스터디 백준 4948")
