@@ -32,3 +32,4 @@ since 2021.09.03
 - [2021.09.21](https://github.com/NayeonKeum/TIL/blob/main/read-books.md "it기업취준실전가이드 part2")
 - [2021.09.22](https://github.com/NayeonKeum/TIL/blob/main/read-books.md "it기업취준실전가이드 part3")
 - [2021.09.23](https://github.com/NayeonKeum/TIL/blob/main/read-books.md "it기업취준실전가이드 part4")
+- [2021.09.24](https://github.com/NayeonKeum/TIL/blob/main/GAN/DL(Andrew%20Ng)/Note-taking.md "GDSC GAN study")
