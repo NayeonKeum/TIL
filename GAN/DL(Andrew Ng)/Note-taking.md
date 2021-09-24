@@ -42,6 +42,8 @@
     - Gradient Descent got faster changing Sigmoid -> RELU    
       + Sigmoid : slow training regions where gradients are almost zero    
       + RELU(Rectified Linear Unit) : gradients equal to 1 in all part of the input, so it doesn't gradually head to zero(rather momentarily)    
+
+
   - with 2 and 3, training time reduced from 1 months to 10 mins, days(not always) so it became much more likely to discover NN that works well for applications    
   
 ***
