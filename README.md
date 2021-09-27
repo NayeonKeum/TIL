@@ -36,6 +36,6 @@ since 2021.09.03
 - [2021.09.25](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "클린코드 세미나")
 - [2021.09.26](https://github.com/NayeonKeum/TIL/blob/main/GAN/DL(Andrew%20Ng)/Note-taking.md "알고리즘, GAN 공부")
 - [2021.09.27](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 시각화 및 전처리")
-- [2021.09.28]
+- [2021.09.28](https://github.com/NayeonKeum/KotlinStudy "코틀린 스터디-홍드로이드 #1, 2, 3")
 
 
