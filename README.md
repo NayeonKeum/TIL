@@ -34,5 +34,8 @@ since 2021.09.03
 - [2021.09.23](https://github.com/NayeonKeum/TIL/blob/main/read-books.md "it기업취준실전가이드 part4")
 - [2021.09.24](https://github.com/NayeonKeum/TIL/blob/main/GAN/DL(Andrew%20Ng)/Note-taking.md "GDSC GAN study")
 - [2021.09.25](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "클린코드 세미나")
+- [2021.09.26](https://github.com/NayeonKeum/TIL/blob/main/GAN/DL(Andrew%20Ng)/Note-taking.md "알고리즘, GAN 공부")
+- [2021.09.27](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 시각화 및 전처리")
+- [2021.09.28]
 
 
