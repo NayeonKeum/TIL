@@ -17,8 +17,7 @@
 
 #### Vectorizing LR
 * ```{.python}
-z = np.dot(w.T, x)+b
-```
+  z = np.dot(w.T, x)+b```
 
 #### LR Gradient Descent
 * if use for-loop
