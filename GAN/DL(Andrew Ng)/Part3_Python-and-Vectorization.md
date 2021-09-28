@@ -65,24 +65,20 @@ print(percentage)
 #### Python/Numpy Vectors
 * don't use
   - ```{.python}
-  a=np.random.randn(5)```
+    a=np.random.randn(5)```
   - rank 1 array
 * instead use
   - ```{.python}
-  a=np.random.randn(5,1)
-  ```
+    a=np.random.randn(5,1)```
   - a.shape=(5,1)
   -```{.python}
-  a=np.random.randn(1,5)
-  ```
+    a=np.random.randn(1,5)```
   - a.shape=(1,5)
 
 * assertion statement
-  -```{.python}
-  assert(a.shape==(5,1))
-  a=a.reshape((5,1))
-  ```
-
+  - ```{.python}
+    assert(a.shape==(5,1))
+    a=a.reshape((5,1))```
 
 ***
 
