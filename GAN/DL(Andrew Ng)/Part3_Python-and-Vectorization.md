@@ -73,7 +73,9 @@ print(percentage)
     a=np.random.randn(5,1)
     ```
   - a.shape=(5,1)
-  -```{.python}
+
+
+  - ```{.python}
     a=np.random.randn(1,5)
     ```
   - a.shape=(1,5)
