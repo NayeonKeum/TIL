@@ -3,7 +3,9 @@
 ***
 #### What is vectorization
 * z=w^(t)*x + b
-  - ```{.python}z = np.dot(w, x)+b```
+  - ```{.python}
+    z = np.dot(w, x)+b
+  - ```
   - CPU vs GPU?
     + SIMD(Single Instruction Multiple Data)
     + if using built-in function, it enables to take much better advantage due to parellelism
@@ -15,7 +17,9 @@
   - in LR derivatives, can use vectorization in computing dws
 
 #### Vectorizing LR
-* ```{.python}z = np.dot(w.T, x)+b```
+* ```{.python}
+z = np.dot(w.T, x)+b
+* ```
 
 #### LR Gradient Descent
 * if use for-loop
@@ -62,17 +66,25 @@ print(percentage)
 
 #### Python/Numpy Vectors
 * don't use
-  - ```{.python}a=np.random.randn(5)```
+  - ```{.python}
+  a=np.random.randn(5)
+  - ```
   - rank 1 array
 * instead use
-  - ```{.python}a=np.random.randn(5,1)```
+  - ```{.python}
+  a=np.random.randn(5,1)
+  ```
   - a.shape=(5,1)
-  -```{.python}a=np.random.randn(1,5)```
+  -```{.python}
+  a=np.random.randn(1,5)
+  ```
   - a.shape=(1,5)
 
 * assertion statement
-  -```{.python}assert(a.shape==(5,1))```
-  -```{.python}a=a.reshape((5,1))```
+  -```{.python}
+  assert(a.shape==(5,1))
+  a=a.reshape((5,1))
+  ```
 
 
 ***
