@@ -38,4 +38,7 @@ since 2021.09.03
 - [2021.09.27](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 시각화 및 전처리")
 - [2021.09.28](https://github.com/NayeonKeum/KotlinStudy "코틀린 스터디-홍드로이드 #1, 2, 3")
 - [2021.09.29](https://github.com/NayeonKeum/Solving_Algorithms/ "코테 스터디 백준 3문제")
-
+- [2021.09.30](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 EDA")
+- [2021.10.01](https://github.com/NayeonKeum/Solving_Algorithms/ "코테 스터디 백준 1문제")
+- [2021.10.02](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 EDA 끝")
+- [2021.10.03](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 추가 자료 조사")
