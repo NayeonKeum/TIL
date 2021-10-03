@@ -93,13 +93,6 @@ b_i = np.zero((2, 1))
     -> thus slowing down learning
   - if you don't use tanh or sigmoid its less issue, but if you're doing binary classification or using sigmoid/tanh as the output unit, you won't want the initial parameters too large
 
-<img src="">
-
-#### Vectorizing LR
-* ```{.python}
-  z = np.dot(w.T, x)+b```
-<img src="">
-
 
 ***
 
