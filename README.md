@@ -43,3 +43,4 @@ since 2021.09.03
 - [2021.10.02](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 EDA 끝")
 - [2021.10.03](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 추가 자료 조사")
 - [2021.10.04](https://github.com/NayeonKeum/TIL/blob/main/GAN/DL(Andrew%20Ng)/Note-taking.md "GDSC GAN study")
+- [2021.10.05](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 ")
