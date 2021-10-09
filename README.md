@@ -45,3 +45,6 @@ since 2021.09.03
 - [2021.10.04](https://github.com/NayeonKeum/TIL/blob/main/GAN/DL(Andrew%20Ng)/Note-taking.md "GDSC GAN study")
 - [2021.10.05](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 ")
 - [2021.10.06](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 st-dbscan")
+- [2021.10.07](https://github.com/NayeonKeum/TIL/blob/main/GAN "알고리즘 스터디")
+- [2021.10.08](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 지리가중회귀")
+- [2021.10.09](https://github.com/NayeonKeum/KUSITMS-Hash "큐시즘반올림데이")
