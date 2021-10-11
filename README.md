@@ -48,3 +48,5 @@ since 2021.09.03
 - [2021.10.07](https://github.com/NayeonKeum/TIL/tree/main/GAN/DL_2(Andrew%20Ng) "알고리즘 스터디")
 - [2021.10.08](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 지리가중회귀")
 - [2021.10.09](https://github.com/NayeonKeum/KUSITMS_Hash "큐시즘반올림데이")
+- [2021.10.10](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 지리가중회귀/최근린분석 공부")
+- [2021.10.11](https://github.com/NayeonKeum/TIL/blob/main/sessions.md "COMPAS2021-수원 지리가중회귀/최근린분석 공부")
