@@ -50,3 +50,4 @@ since 2021.09.03
 - [2021.10.09](https://github.com/NayeonKeum/KUSITMS_Hash "큐시즘반올림데이")
 - [2021.10.10](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 지리가중회귀/최근린분석 공부")
 - [2021.10.11](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 지리가중회귀/최근린분석 공부")
+- [2021.10.12](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 분석 파이프라인 짜기 및 시공간분석기법 공부")
