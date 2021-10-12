@@ -51,3 +51,4 @@ since 2021.09.03
 - [2021.10.10](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 지리가중회귀/최근린분석 공부")
 - [2021.10.11](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 지리가중회귀/최근린분석 공부")
 - [2021.10.12](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 분석 파이프라인 짜기 및 시공간분석기법 공부")
+- [2021.10.13](https://github.com/NayeonKeum/TIL/tree/main/GAN/GAN%EC%B2%AB%EA%B1%B8%EC%9D%8C "GDSC GAN첫걸음 part 1-1, 1-2")
