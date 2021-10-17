@@ -54,3 +54,5 @@ since 2021.09.03
 - [2021.10.13](https://github.com/NayeonKeum/TIL/tree/main/GAN/GAN%EC%B2%AB%EA%B1%B8%EC%9D%8C "GDSC GAN첫걸음 part 1-1, 1-2")
 - [2021.10.14](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 지리가중회귀 마무리, 회귀계수 클러스터링 및 시각화 완료")
 - [2021.10.15](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 분석 지리가중회귀 ")
+- 2021.10.16 : 백신으로 오프..
+- [2021.10.17](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 4개시도 지리가중회귀 ")
