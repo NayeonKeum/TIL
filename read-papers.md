@@ -15,3 +15,8 @@
 - 김동현, 박진아(2018), 시공간패턴분석기법을 이용한 젠트리피케이션 발생지역의 상업용도 확산지역 도출, Journal of Korea Planning Association Vol.53, No.7, pp.23-37
 - 홍동숙 외 5인, 시공간 분석 기반 연쇄 범죄 거점 위치 예측 알고리즘, 건설교통부 첨단도시기술개발사업-지능형국토정보기술혁신 사업과제, 2008.5.7
 - 정격석 외 2인(2010), 시공간검정통계량을 이용한 도시범죄의 핫스팟분석, 한국지리정보학회지 13권 3호 pp. 14-28
+- Christopher D. Maxwell, Jinseong Cheong, Finding Crime Hot Spots in a Midsized Midwestern City in North America: Physical Disorder as a Proxy Measure for Underlying Population at Risk, 한국 범죄학 2010 4권 1호
+- 김주환(2014.6), 탐색적 공간데이터 분석을 통한 CPTED장비 위치 설계 방안에 대한 연구, 한성대학교 대학원,박사학위 논문
+
+
+
