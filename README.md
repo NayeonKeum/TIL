@@ -56,3 +56,4 @@ since 2021.09.03
 - [2021.10.15](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 분석 지리가중회귀 ")
 - 2021.10.16 : 백신으로 오프..
 - [2021.10.17](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 4개시도 지리가중회귀 ")
+- [2021.10.18](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 태블루 공부...")
