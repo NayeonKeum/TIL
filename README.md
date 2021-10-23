@@ -59,3 +59,6 @@ since 2021.09.03
 - [2021.10.18](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 태블루 공부...")
 - [2021.10.19](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 태블로 적용")
 - [2021.10.20](https://github.com/NayeonKeum/KotlinStudy "코틀린 스터디-홍드로이드 #9, 10, 11, 12")
+- [2021.10.21](https://github.com/NayeonKeum/Solving_Algorithms/ "알고리즘 스터디 백준 4문제")
+- [2021.10.22](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트 뽑기")
+- [2021.10.23](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트 뽑기2")
