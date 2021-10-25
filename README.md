@@ -62,3 +62,5 @@ since 2021.09.03
 - [2021.10.21](https://github.com/NayeonKeum/Solving_Algorithms/ "알고리즘 스터디 백준 4문제")
 - [2021.10.22](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트 뽑기")
 - [2021.10.23](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트 뽑기2")
+- [2021.10.24](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트")
+- [2021.10.25](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 시각화")
