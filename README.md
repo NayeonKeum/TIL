@@ -64,3 +64,4 @@ since 2021.09.03
 - [2021.10.23](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트 뽑기2")
 - [2021.10.24](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 인사이트")
 - [2021.10.25](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 시각화")
+- [2021.10.26](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 선택된 변수별 인사이트 파악")
