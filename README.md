@@ -70,4 +70,6 @@ since 2021.09.03
 - [2021.10.29](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 논리 연결 및 마무리")
 - [2021.10.30](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 마무리 ")
 - [2021.10.31](https://github.com/NayeonKeum/Solving_Algorithms/ "알고리즘 스터디 백준 1문제")
-- [2021.11.01](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선-통계 대비")
+- [2021.11.01](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 - 통계 대비")
+- [2021.11.02](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 - 대비")
+- [2021.11.03](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 - 대비")
