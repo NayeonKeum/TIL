@@ -74,3 +74,4 @@ since 2021.09.03
 - [2021.11.02](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 - 대비")
 - [2021.11.03](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 - 대비")
 - [2021.11.04](https://github.com/NayeonKeum/TIL/tree/main/GAN/ "GDSC GAN첫걸음 part 2")
+- [2021.11.05](https://github.com/NayeonKeum/TIL/tree/main/GAN/ "GDSC GAN첫걸음 part 2-2")
