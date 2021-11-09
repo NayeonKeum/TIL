@@ -78,3 +78,5 @@ since 2021.09.03
 - [2021.11.06](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 대비")
 - [2021.11.07](https://github.com/NayeonKeum/Solving_Algorithms/ "알고리즘 스터디")
 - [2021.11.08](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 대비")
+- [2021.11.09](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 대비")
+- [2021.11.10](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 마무리 및 코드 정리")
