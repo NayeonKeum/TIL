@@ -80,5 +80,5 @@ since 2021.09.03
 - [2021.11.08](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 대비")
 - [2021.11.09](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 대비")
 - [2021.11.10](https://github.com/NayeonKeum/BigContest2021 "빅콘테스트2021 본선 마무리 및 코드 정리")
-- [2021.11.11](https://github.com/NayeonKeum/FoodVillage "푸드빌리지 카카오맵 하는 중")
+- [2021.11.11](https://github.com/aerimforest/FoodVillage "푸드빌리지 카카오맵 하는 중")
 - [2021.11.12](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 초기 ")
