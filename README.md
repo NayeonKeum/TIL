@@ -84,3 +84,5 @@ since 2021.09.03
 - [2021.11.12](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 초기 ")
 - [2021.11.13](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 기능 구현1 ")
 - [2021.11.14](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 기능 구현2 ")
+- [2021.11.15](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 본선 대비 정책 보수")
+- [2021.11.16](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 본선 대비 정책 보수2 ")
