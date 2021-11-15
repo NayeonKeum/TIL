@@ -83,3 +83,4 @@ since 2021.09.03
 - [2021.11.11](https://github.com/aerimforest/FoodVillage "푸드빌리지 카카오맵 하는 중")
 - [2021.11.12](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 초기 ")
 - [2021.11.13](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 기능 구현1 ")
+- [2021.11.14](https://github.com/aerimforest/FoodVillage/pulls "푸드빌리지 [feat] 카카오맵 기능 구현2 ")
