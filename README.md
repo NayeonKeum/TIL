@@ -88,3 +88,14 @@ since 2021.09.03
 - [2021.11.16](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 본선 대비 정책 보수2 ")
 - [2021.11.17](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 본선 발표자료 마무리")
 - [2021.11.18](https://github.com/NayeonKeum/COMPAS2021-Suwon "COMPAS2021-수원 본선 ")
+- [2021.11.19](https://github.com/aerimforest/FoodVillage "푸드빌리지")
+- [2021.11.20](https://github.com/aerimforest/FoodVillage "푸드빌리지")
+- [2021.11.21](https://github.com/aerimforest/FoodVillage "푸드빌리지")
+- [2021.11.22](https://github.com/aerimforest/FoodVillage "푸드빌리지")
+- [2021.11.23](https://github.com/aerimforest/FoodVillage "푸드빌리지")
+
+
+
+
+
+
