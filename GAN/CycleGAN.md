@@ -13,4 +13,6 @@
 ## CycleGAN
 - 대칭적인 로스를 기반으로 동시에 훈련시켜 4가지 로스를 합친 결과가 CycleGAN이다.
 <img src="https://user-images.githubusercontent.com/68985625/143728114-d250bf43-91e7-4360-a5d7-45e87f3e9652.png">
-
+- encoding <-> decoding의 방식에서 벗어나 U-Net을 사용
+- **U-Net**: 스킵 커넥션 이용, 바틀넥에 들어갔다 나올 때 많이 없어짐
+- **ResNet**: 뎁스도 있고 바틀넥은 없어 디테일을 간직할 수 있었음. 그러나 메모리를 많이 사용함
