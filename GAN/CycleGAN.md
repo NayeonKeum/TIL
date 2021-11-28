@@ -1,4 +1,4 @@
-# Cycle GAN: 박태성(UC 머클리)
+# Cycle GAN: 박태성(UC 버클리)
 
 ### Prisma: 사진을 그림처럼 바꿔주는 AI
 ### -> 그림을 사진으로 바꾸는 인공지능
@@ -16,3 +16,13 @@
 - encoding <-> decoding의 방식에서 벗어나 U-Net을 사용
 - **U-Net**: 스킵 커넥션 이용, 바틀넥에 들어갔다 나올 때 많이 없어짐
 - **ResNet**: 뎁스도 있고 바틀넥은 없어 디테일을 간직할 수 있었음. 그러나 메모리를 많이 사용함
+<img src="https://user-images.githubusercontent.com/68985625/143728622-b4b66640-93fb-45a2-9865-fe52c41c5f83.png">
+- GAN의 로스를 트레인하고자 하면 그래디언트가 flat해진다는 단점이 있음
+- -> LSGAN 사용
+- **LSGAN**: 진짜는 1, 가짜는 0을 주는 방식, 안정적인 트레이닝
+- L1 loss를 stable한 guiding force로 사용하는 GAN 훈련
+- 시드 값에 따라 불안정성이 대두될 수 있음 -> 여러 개의 평균을 내보았는데 메모리가 많이 필요했음
+- *replay buffer*: 단점) 모양을 바꾸기 어려움
+
+## CycleGAN의 유용한 사례
+- GTA <-> 실제 사진: 이를 이용하여 자율주행차에서 detection을 수행할 수 있음
